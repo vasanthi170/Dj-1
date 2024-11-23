@@ -10,4 +10,4 @@ def vasu(request):
     return HttpResponse('<h1>Hello people! Tomorrow is thursday</h1>')
 
 def srav(request):
-    return HttpResponse('<h1><marcue></marcue></h1>')
+    return HttpResponse('<h1><marcue> Hello world</marcue></h1>')
