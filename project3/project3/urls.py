@@ -23,3 +23,4 @@ urlpatterns = [
     path('kumari/',kumari,name='kumari'),
     path('vasu/',vasu,name='vasu')
 ]
+
